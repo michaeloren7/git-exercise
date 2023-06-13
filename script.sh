@@ -1,4 +1,4 @@
-echo "Enter your name: "
+echo "Michael "
 read name
 
 for i in {1..5}; do
